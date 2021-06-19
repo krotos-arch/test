@@ -3,8 +3,8 @@
     "static/js/0.e5340682.chunk.js": "./static/js/0.e5340682.chunk.js",
     "static/js/0.e5340682.chunk.js.map": "./static/js/0.e5340682.chunk.js.map",
     "main.css": "./static/css/main.bbb1894e.chunk.css",
-    "main.js": "./static/js/main.1e92fa23.chunk.js",
-    "main.js.map": "./static/js/main.1e92fa23.chunk.js.map",
+    "main.js": "./static/js/main.69340614.chunk.js",
+    "main.js.map": "./static/js/main.69340614.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0bce5bb4.js",
     "runtime-main.js.map": "./static/js/runtime-main.0bce5bb4.js.map",
     "static/js/3.e5d8cdbd.chunk.js": "./static/js/3.e5d8cdbd.chunk.js",
@@ -35,15 +35,13 @@
     "static/media/App.css": "./static/media/background.eb788bb2.png",
     "static/media/compound-comp-logo.98b3480f.png": "./static/media/compound-comp-logo.98b3480f.png",
     "static/media/metamask-fox.7db94670.svg": "./static/media/metamask-fox.7db94670.svg",
-    "static/media/play.a4cccdc9.svg": "./static/media/play.a4cccdc9.svg",
     "static/media/success.6e3f4e40.png": "./static/media/success.6e3f4e40.png",
-    "static/media/sundr_max_logo.0e2c0c2d.png": "./static/media/sundr_max_logo.0e2c0c2d.png",
     "static/media/wallet-connect.dfa25e47.svg": "./static/media/wallet-connect.dfa25e47.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0bce5bb4.js",
     "static/js/3.e5d8cdbd.chunk.js",
     "static/css/main.bbb1894e.chunk.css",
-    "static/js/main.1e92fa23.chunk.js"
+    "static/js/main.69340614.chunk.js"
   ]
 }
