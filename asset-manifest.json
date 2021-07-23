@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.d06fa039.chunk.css",
-    "main.js": "./static/js/main.2baeb073.chunk.js",
-    "main.js.map": "./static/js/main.2baeb073.chunk.js.map",
+    "main.js": "./static/js/main.a0cb63fc.chunk.js",
+    "main.js.map": "./static/js/main.a0cb63fc.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b7e27c51.js",
     "runtime-main.js.map": "./static/js/runtime-main.b7e27c51.js.map",
     "static/css/2.f191edb1.chunk.css": "./static/css/2.f191edb1.chunk.css",
-    "static/js/2.89d5ce0d.chunk.js": "./static/js/2.89d5ce0d.chunk.js",
-    "static/js/2.89d5ce0d.chunk.js.map": "./static/js/2.89d5ce0d.chunk.js.map",
+    "static/js/2.d38e7cca.chunk.js": "./static/js/2.d38e7cca.chunk.js",
+    "static/js/2.d38e7cca.chunk.js.map": "./static/js/2.d38e7cca.chunk.js.map",
     "static/js/3.f2adaffb.chunk.js": "./static/js/3.f2adaffb.chunk.js",
     "static/js/3.f2adaffb.chunk.js.map": "./static/js/3.f2adaffb.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.f191edb1.chunk.css.map": "./static/css/2.f191edb1.chunk.css.map",
     "static/css/main.d06fa039.chunk.css.map": "./static/css/main.d06fa039.chunk.css.map",
-    "static/js/2.89d5ce0d.chunk.js.LICENSE.txt": "./static/js/2.89d5ce0d.chunk.js.LICENSE.txt",
+    "static/js/2.d38e7cca.chunk.js.LICENSE.txt": "./static/js/2.d38e7cca.chunk.js.LICENSE.txt",
     "static/media/bg2@2x.0bb17967.jpg": "./static/media/bg2@2x.0bb17967.jpg",
     "static/media/bg3@2x.bdeed406.jpg": "./static/media/bg3@2x.bdeed406.jpg",
     "static/media/faq_img.a9afbcd0.png": "./static/media/faq_img.a9afbcd0.png",
@@ -23,15 +23,15 @@
     "static/media/h2_yield@2x.2111f6b5.png": "./static/media/h2_yield@2x.2111f6b5.png",
     "static/media/latest_from_us@2x.401edd08.png": "./static/media/latest_from_us@2x.401edd08.png",
     "static/media/logo.d2250592.png": "./static/media/logo.d2250592.png",
-    "static/media/logo@2x.6fc5d5c4.png": "./static/media/logo@2x.6fc5d5c4.png",
     "static/media/redefining@2x.f92194fc.png": "./static/media/redefining@2x.f92194fc.png",
+    "static/media/sushi.dec926df.png": "./static/media/sushi.dec926df.png",
     "static/media/top.mp4": "./static/media/top.f9ffdaf9.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.b7e27c51.js",
     "static/css/2.f191edb1.chunk.css",
-    "static/js/2.89d5ce0d.chunk.js",
+    "static/js/2.d38e7cca.chunk.js",
     "static/css/main.d06fa039.chunk.css",
-    "static/js/main.2baeb073.chunk.js"
+    "static/js/main.a0cb63fc.chunk.js"
   ]
 }
